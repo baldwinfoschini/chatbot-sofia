@@ -1,0 +1,10 @@
+{
+  "documentos": 18,
+  "paginas_o_secciones": 54,
+  "fragmentos": 70,
+  "segundos": 101.5,
+  "fecha": "2026-11-15T13:39:00",
+  "embedding_model": "nomic-embed-text",
+  "chunk_size": 700,
+  "chunk_overlap": 100
+}

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256">
+  <circle cx="128" cy="128" r="128" fill="#F3A712"/>
+  <clipPath id="c"><circle cx="128" cy="128" r="128"/></clipPath>
+  <g clip-path="url(#c)">
+    <path d="M40 256 Q40 176 128 176 Q216 176 216 256 Z" fill="#0F2747"/>
+    <path d="M104 178 L128 214 L152 178 Z" fill="#FFFFFF"/>
+    <circle cx="128" cy="118" r="46" fill="#C98B5E"/>
+    <path d="M82 112 Q84 70 128 70 Q172 70 174 112 Q150 96 128 98 Q106 96 82 112 Z" fill="#3B2416"/>
+    <circle cx="112" cy="122" r="5" fill="#0F2747"/>
+    <circle cx="144" cy="122" r="5" fill="#0F2747"/>
+    <path d="M114 142 Q128 152 142 142" fill="none" stroke="#0F2747" stroke-width="4" stroke-linecap="round"/>
+    <!-- backpack strap -->
+    <rect x="70" y="186" width="14" height="70" rx="6" fill="#0B7A70"/>
+    <rect x="172" y="186" width="14" height="70" rx="6" fill="#0B7A70"/>
+  </g>
+</svg>

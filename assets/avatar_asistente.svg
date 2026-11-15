@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256">
+  <circle cx="128" cy="128" r="128" fill="#0B7A70"/>
+  <!-- owl body -->
+  <ellipse cx="128" cy="150" rx="70" ry="78" fill="#F3E9D2"/>
+  <path d="M62 120 Q60 60 100 70 L128 92 L156 70 Q196 60 194 120 Z" fill="#8C5A2B"/>
+  <ellipse cx="128" cy="170" rx="44" ry="50" fill="#FFFFFF"/>
+  <!-- eyes -->
+  <circle cx="100" cy="122" r="26" fill="#FFFFFF" stroke="#0F2747" stroke-width="4"/>
+  <circle cx="156" cy="122" r="26" fill="#FFFFFF" stroke="#0F2747" stroke-width="4"/>
+  <circle cx="104" cy="124" r="11" fill="#0F2747"/>
+  <circle cx="152" cy="124" r="11" fill="#0F2747"/>
+  <circle cx="108" cy="120" r="4" fill="#FFFFFF"/>
+  <circle cx="156" cy="120" r="4" fill="#FFFFFF"/>
+  <!-- glasses bridge -->
+  <line x1="126" y1="120" x2="130" y2="120" stroke="#0F2747" stroke-width="4"/>
+  <!-- beak -->
+  <polygon points="120,146 136,146 128,162" fill="#F3A712"/>
+  <!-- cap -->
+  <polygon points="128,30 196,54 128,78 60,54" fill="#0F2747"/>
+  <rect x="98" y="62" width="60" height="16" fill="#0F2747"/>
+  <line x1="196" y1="54" x2="196" y2="92" stroke="#F3A712" stroke-width="5"/>
+  <circle cx="196" cy="96" r="7" fill="#F3A712"/>
+  <!-- book -->
+  <path d="M84 196 L128 206 L172 196 L172 226 L128 236 L84 226 Z" fill="#E4572E"/>
+  <line x1="128" y1="206" x2="128" y2="236" stroke="#FFFFFF" stroke-width="3"/>
+</svg>

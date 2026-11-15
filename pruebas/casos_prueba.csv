@@ -1,0 +1,20 @@
+id,categoria,pregunta,fuente_esperada,articulo_esperado,palabras_clave
+R01,reglamento,¿Cuántas ausencias puedo tener antes de perder una asignatura?,doc_Reglamento_Estudiantil_IE_Virtual_Horizonte,19,15|7
+R02,reglamento,¿Qué requisitos debo cumplir para homologar una asignatura de otro colegio?,doc_Reglamento_Estudiantil_IE_Virtual_Horizonte,27,30 días|80|70
+R03,reglamento,¿Cómo se calcula la nota final de una asignatura?,doc_Reglamento_Estudiantil_IE_Virtual_Horizonte,13,50|15|20
+R04,reglamento,Si saqué 60 en una materia ¿puedo recuperarla?,doc_Reglamento_Estudiantil_IE_Virtual_Horizonte,15,15 días|70
+R05,reglamento,¿Cuánto tiempo tengo para reclamar una calificación?,doc_Reglamento_Estudiantil_IE_Virtual_Horizonte,16,5 días
+R06,reglamento,¿Qué necesito para no perder la calidad de estudiante?,doc_Reglamento_Estudiantil_IE_Virtual_Horizonte,8,75|15
+R07,reglamento,¿Qué rango de notas corresponde al nivel medio?,doc_Reglamento_Estudiantil_IE_Virtual_Horizonte,12,70|89
+R08,reglamento,¿En cuánto tiempo debo justificar una ausencia?,doc_Reglamento_Estudiantil_IE_Virtual_Horizonte,20,3 días
+R09,reglamento,¿Hay becas para los mejores estudiantes?,doc_Reglamento_Estudiantil_IE_Virtual_Horizonte,34,50
+R10,reglamento,¿Puedo cambiarme de la sección A a la B?,doc_Reglamento_Estudiantil_IE_Virtual_Horizonte,28,dos primeras semanas
+D01,datos,¿Qué porcentaje de estudiantes con más de 7 ausencias tiene rendimiento bajo?,factores_riesgo,0,"60,7"
+D02,datos,¿Cuántos recursos visitan en promedio los estudiantes de nivel alto?,participacion_por_nivel,0,"78,7"
+D03,datos,¿Cuántos estudiantes tiene el dataset xAPI-Edu-Data?,descripcion,0,480
+D04,datos,¿Cuál es la variable más importante del modelo predictivo?,modelo_mlp,0,ausencia|StudentAbsenceDays
+C01,compleja,"Tengo 9 ausencias y saqué nivel bajo en el primer corte: ¿qué hace la institución y qué dicen los datos sobre mi riesgo?",doc_Reglamento_Estudiantil_IE_Virtual_Horizonte,21,alerta|acompañamiento
+C02,compleja,¿Qué relación hay entre la participación de los padres y el rendimiento y qué le exige el reglamento al acudiente?,por_ParentAnsweringSurvey,0,encuesta
+F01,fuera_de_contexto,¿Cuál es la capital de Francia?,,0,
+F02,fuera_de_contexto,Dame una receta de arepas con queso,,0,
+F03,fuera_de_contexto,¿Cuánto cuesta la matrícula del semestre?,,0,
