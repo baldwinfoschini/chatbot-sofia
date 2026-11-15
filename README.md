@@ -8,6 +8,7 @@ de donde sale cada dato. Funciona 100 % en local con **Ollama**, una base vector
 interfaz en **Streamlit** con chat, gestión documental y monitoreo.
 
 **ACA 2 · Computación en la Nube · CUN** · Pilar: **Proyecto 2 – Educación**
+Repositorio: https://github.com/baldwinfoschini/chatbot-sofia
 Integrantes: [Nombre 1] · [Nombre 2] · [Nombre 3]
 
 ---
@@ -79,8 +80,8 @@ consultas) y `.env` (configuración local).
 
 1. **Clona el repositorio**
    ```bash
-   git clone https://github.com/USUARIO/REPOSITORIO.git
-   cd REPOSITORIO
+   git clone https://github.com/baldwinfoschini/chatbot-sofia.git
+   cd chatbot-sofia
    ```
 2. **Instala Ollama** desde https://ollama.com y descarga los modelos
    ```bash
